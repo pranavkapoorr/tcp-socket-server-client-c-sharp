@@ -1,0 +1,11 @@
+/Users/pranav/Documents/tcp-socket-server-client-c-sharp/tcp-client/bin/Debug/netcoreapp2.2/tcp-client.deps.json
+/Users/pranav/Documents/tcp-socket-server-client-c-sharp/tcp-client/bin/Debug/netcoreapp2.2/tcp-client.runtimeconfig.json
+/Users/pranav/Documents/tcp-socket-server-client-c-sharp/tcp-client/bin/Debug/netcoreapp2.2/tcp-client.runtimeconfig.dev.json
+/Users/pranav/Documents/tcp-socket-server-client-c-sharp/tcp-client/bin/Debug/netcoreapp2.2/tcp-client.dll
+/Users/pranav/Documents/tcp-socket-server-client-c-sharp/tcp-client/bin/Debug/netcoreapp2.2/tcp-client.pdb
+/Users/pranav/Documents/tcp-socket-server-client-c-sharp/tcp-client/obj/Debug/netcoreapp2.2/tcp-client.csprojAssemblyReference.cache
+/Users/pranav/Documents/tcp-socket-server-client-c-sharp/tcp-client/obj/Debug/netcoreapp2.2/tcp-client.csproj.CoreCompileInputs.cache
+/Users/pranav/Documents/tcp-socket-server-client-c-sharp/tcp-client/obj/Debug/netcoreapp2.2/tcp-client.AssemblyInfoInputs.cache
+/Users/pranav/Documents/tcp-socket-server-client-c-sharp/tcp-client/obj/Debug/netcoreapp2.2/tcp-client.AssemblyInfo.cs
+/Users/pranav/Documents/tcp-socket-server-client-c-sharp/tcp-client/obj/Debug/netcoreapp2.2/tcp-client.dll
+/Users/pranav/Documents/tcp-socket-server-client-c-sharp/tcp-client/obj/Debug/netcoreapp2.2/tcp-client.pdb
